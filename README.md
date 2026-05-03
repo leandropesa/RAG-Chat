@@ -4,7 +4,7 @@ Aplicación fullstack que implementa el patrón **RAG (Retrieval-Augmented Gener
 
 ## Demo
 
-
+https://github.com/user-attachments/assets/32c53e6b-337e-4273-a343-3ea7e45627b3
 
 ## Stack tecnológico
 
